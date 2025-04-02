@@ -9,7 +9,7 @@ Types of Nodes
 - Root Node: The starting point of a graph with no ancestors.
 - Leaf Nodes: Nodes with no outgoing edges, only incoming connections.
 
-Graphs can be directed (one-way edges) or undirected (bi-directional edges), and they are used in various applications like networking, social media, and pathfinding. =
+Graphs can be directed (one-way edges) or undirected (bi-directional edges), and they are used in various applications like networking, social media, and pathfinding.
 
 ### LeetCode Graph Problems
 
