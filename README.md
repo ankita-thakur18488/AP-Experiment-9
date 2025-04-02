@@ -4,12 +4,15 @@
 A graph is a data structure that represents relationships between objects using:
 - Nodes (Vertices): Represent entities in the graph.
 - Edges: Represent connections/relationships between nodes.
+![image](https://github.com/user-attachments/assets/04073ee5-6b9c-40f7-8578-b11590a1184e)
+
 
 Types of Nodes
 - Root Node: The starting point of a graph with no ancestors.
 - Leaf Nodes: Nodes with no outgoing edges, only incoming connections.
 
-Graphs can be directed (one-way edges) or undirected (bi-directional edges), and they are used in various applications like networking, social media, and pathfinding. https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/
+Graphs can be directed (one-way edges) or undirected (bi-directional edges), and they are used in various applications like networking, social media, and pathfinding. 
+https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/
  
 ### LeetCode Graph Problems
 
